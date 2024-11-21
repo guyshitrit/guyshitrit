@@ -23,4 +23,5 @@
 ---
 
 ### Let's Connect:
-- 🌐 [LinkedIn](www.linkedin.com/in/guyshitrit)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/guyshitrit)
+
