@@ -10,6 +10,7 @@
 - 🌿 Experienced in building creative projects, including:
   - 📟 A **light measurement device** that uses a Wheatstone bridge to detect and display light intensity in a room.
   - 🚗 A **smart parking model**, simulating an automated system with sensors and motors.
+  - 🌿 A **Smart Plant Monitoring System**, monitoring soil moisture and sending notifications by push notifications.
 
 ---
 
