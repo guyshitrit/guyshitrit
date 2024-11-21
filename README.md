@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Guy!
 
-<!--
-**guyshitrit/guyshitrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical Engineering Student** | 💡 **Tech Enthusiast** | 🌍 **Traveler**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+- 🔍 Currently in my third year of studying **Electrical Engineering** at [Afeka Academic College of Engineering].
+- 🛠️ Passionate about **electronics**, **embedded systems**, and solving real-world problems through engineering.
+- 🌿 Experienced in building creative projects, including:
+  - 📟 A **light measurement device** that uses a Wheatstone bridge to detect and display light intensity in a room.
+  - 🚗 A **smart parking model**, simulating an automated system with sensors and motors.
+
+---
+
+### Skills & Interests:
+- **Programming**: C, MATLAB, and microcontroller programming.
+- **Electronics**: Circuit design, PCB design, and integrating sensors.
+- **Software**: Visual Studio, PlatformIO, and simulation tools.
+- **Interests**: Embedded systems, IoT, and digital signal processing.
+
+---
+
+### Let's Connect:
+- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
