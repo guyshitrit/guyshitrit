@@ -16,7 +16,7 @@
 
 ### Skills & Interests:
 - **Programming**: C, MATLAB, and microcontroller programming.
-- **Electronics**: Circuit design, PCB design, and sensor integration.
+- **Electronics**: Circuit design, and sensor integration.
 - **Software**: Visual Studio, PlatformIO, and simulation tools.
 - **Interests**: Embedded systems, IoT, and digital signal processing.
 
